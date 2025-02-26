@@ -8,9 +8,3 @@ Bu API, harici sistemlerden GrandNode'a sipariş aktarımı yapmak için gelişt
 - Sipariş verilerini doğrular
 - Siparişleri GrandNode sistemine kaydeder
 - Hata durumlarını yönetir
-
-
-
-# Note
-	Selamlar, işlerim yoğun olduğu için bu kadarını tamamlayabildim. İyi çalışmalar.
-	Temel anlamda bir webhook api si oluşturuldu.
