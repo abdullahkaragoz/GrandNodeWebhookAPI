@@ -1,8 +1,9 @@
-GrandNode Webhook API Projesi
+GrandNode Webhook API Projesi<br>
 Bu API, harici sistemlerden GrandNode'a sipariş aktarımı yapmak için geliştirilmiş bir webhook servisidir.
+<br>
 
-Özellikler
-Harici sistemlerden gelen siparişleri kabul eder
-Sipariş verilerini doğrular
-Siparişleri GrandNode sistemine kaydeder
-Hata durumlarını yönetir
+Özellikler<br>
+- Harici sistemlerden gelen siparişleri kabul eder<br>
+- Sipariş verilerini doğrular<br>
+- Siparişleri GrandNode sistemine kaydeder<br>
+- Hata durumlarını yönetir
